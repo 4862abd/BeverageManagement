@@ -7,6 +7,7 @@
 <br>
 <hr>
 <br>
+
 ## Spec
 ### jdk: 17
 ### DB: MySQL
