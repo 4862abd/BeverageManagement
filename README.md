@@ -1,6 +1,5 @@
 # BeverageManagement
 <br>
-<br>
 
 ## Intro
 이 프로젝트는 토이프로젝트 입니다.
@@ -8,13 +7,13 @@
 <br>
 <hr>
 
-## :computer: Spec
-### jdk: 17
-### MyBatis
-### DB: MySQL
+### :computer: Spec
+#### jdk: 17
+#### MyBatis
+#### DB: MySQL
 
 <hr>
 
-## 🗃️ Tools
-### Test: Swagger
-### ERD: ERD Cloud
+### 🗃️ Tools
+#### Test: Swagger
+#### ERD: ERD Cloud
