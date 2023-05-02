@@ -8,6 +8,6 @@
 <br>
 <hr>
 
-## Spec
+## :computer: Spec
 ### jdk: 17
 ### DB: MySQL
