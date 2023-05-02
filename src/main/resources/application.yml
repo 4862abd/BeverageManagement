@@ -1,0 +1,20 @@
+# custom
+#data.server.username=root
+#data.server.url=localhost:3306/root_01
+#data.server.password=
+
+apiPrefix: /api
+
+format_sql: true
+use_sql_comments: true
+
+logging:
+    level:
+        org:
+            springframework:
+                jdbc:
+                    core: TRACE
+
+spring:
+  profiles:
+    active: house
