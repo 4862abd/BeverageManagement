@@ -10,4 +10,10 @@
 
 ## :computer: Spec
 ### jdk: 17
+### MyBatis
 ### DB: MySQL
+
+<hr>
+
+## 🗃️ Tools
+### ERD: ERD Cloud
